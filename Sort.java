@@ -2,6 +2,7 @@ package sorting;
 
 /*
  * Variety of sorting Algorithms
+ * Written to experiment with git and practice sorting and runtime analysis
  */
 
 public class Sort {
